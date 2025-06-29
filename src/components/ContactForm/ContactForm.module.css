@@ -1,0 +1,19 @@
+.contactform {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.contactform label {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-size: 10px;
+}
+
+.contactform button {
+    margin-top: 15px;
+    padding: 2px;
+    background-color: rgb(202, 202, 206);
+    border-color:rgb(202, 202, 206);
+}

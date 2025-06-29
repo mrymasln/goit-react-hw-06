@@ -1,0 +1,36 @@
+
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    width: 390px;
+    padding: 10px 5px;
+    margin-right: 15px;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.contact span {
+    flex-grow: 1;
+    font-size: 16px;
+    color: #333;
+}
+
+.contact button {
+    background-color: #6e6e6e;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 6px 12px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.contact button:hover {
+    background-color: #c82333; }
+
+

@@ -1,0 +1,10 @@
+.searchbox {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-bottom: 30px;
+}
+
+.searchlabel {
+    font-size: 10px;
+}
